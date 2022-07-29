@@ -25,12 +25,28 @@ h2 {
   font-weight: normal;
 }
 
+hr {
+  border: dotted gray;
+  width: 4%;
+  border-bottom: none;
+  margin: 30px auto;
+}
+
 h3 {
   color: #11999E;
 }
 
+p {
+  font-family: sans-serif;
+}
+
 a {
   color: #11999E;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
 }
 
 .topCloud {
@@ -49,7 +65,6 @@ a {
 }
 
 .bottom-container {
-
 }
 
 h4 {
